@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TeamscoreCounter</string>
+    <string name="button1">team 1 point </string>
+    <string name="button2">team 2 point </string>
+    <string name="team1score">0</string>
+    <string name="team2score">0</string>
+    <string name="the_winner_is">The winner is:</string>
+    <string name="team">team: </string>
+
+</resources>
